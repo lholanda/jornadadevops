@@ -1,0 +1,7 @@
+[user]
+	mail = luiz.holanda1408@gmail.com
+	name = LRA Holanda
+[init]
+	defaultBranch = main
+[core]
+	editor = vim
